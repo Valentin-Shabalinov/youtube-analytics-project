@@ -1,0 +1,6 @@
+/.DS_Store
+/.gitignor
+/.vscode
+/tests
+/venv
+/youtube_api_manual.py
