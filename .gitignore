@@ -1,5 +1,4 @@
-/.DS_Store
-/.gitignor
+src/.DS_Store
 /.vscode
 /tests
 /venv
