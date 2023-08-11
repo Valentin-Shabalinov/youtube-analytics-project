@@ -1,11 +1,10 @@
-src/.DS_Store
 .DS_Store
-/.vscode
-/tests
+.vscode
 /venv
 /youtube_api_manual.py
+.pytest_cache
 # Byte-compiled / optimized / DLL files
-src/__pycache__/
+__pycache__/
 *.py[cod]
 *$py.class
 
