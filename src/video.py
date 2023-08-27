@@ -22,10 +22,6 @@ class Video:
     def __str__(self):
         return self.title_video
 
-    def eee(self):
-        return self.channel
-
-
 
 class PLVideo(Video):
     def __init__(self, id_video, playlist_id) -> None:
